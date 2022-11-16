@@ -1,0 +1,16 @@
+.mult{
+    display: flex;
+    height: 20px;
+    width: 370px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.my-class{
+    color: red;
+}
+.text{
+    display: flex;
+    height: 20px;
+    align-items: center;
+}
